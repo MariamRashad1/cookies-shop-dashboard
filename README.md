@@ -6,7 +6,7 @@
 
 <br>
 
-🎥 **Project Demo**  
+## 🎥 **Project Demo**  
 <img src="assets/video.gif?raw=true" width="1000">
 
 <div align="center">
@@ -55,6 +55,29 @@ This project addresses a real-world scenario where a business needed a centraliz
 - Support decisions on marketing, inventory, and operations  
 
 ---
+## 📁 Project Structure
+
+```bash
+Cookies-Shop-PowerBI-Dashboard/
+│
+├── assets/                  # Screenshots, images, GIFs used in README
+│   ├── customer_report.png
+│   ├── video.gif
+│   ├── dashboard-1.png
+│   ├── dashboard-2.png
+│   └── dashboard-3.png
+│
+├── data/                    # (Optional) Sample dataset files
+│   └── sales_data_sample.xlsx
+│
+├── pbix/                    # Power BI project files
+│   └── Cookies.pbix
+│
+├── docs/                    # Additional documentation (optional)
+│   └── project_notes.pdf
+│
+└── README.md
+```
 
 ## 📊 Main KPIs
 
